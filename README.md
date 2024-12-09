@@ -21,8 +21,8 @@
 
 This project relies on the following dependencies:
 
-**Inquirer.js:** For interactive command-line interfaces.
-**TypeScript:** For static type checking.
+* **Inquirer.js:** For interactive command-line interfaces.
+* **TypeScript:** For static type checking.
 
 Please ensure these dependencies are installed before running the project.
 
