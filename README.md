@@ -43,7 +43,7 @@ Please ensure these dependencies are installed before running the project.
 
 ### Application Demo
 
-NEED TO ADD VIDEO DEMO
+[Vehicle Builder Demo](https://drive.google.com/file/d/1NB5dC8ZyBQLRptQ_jC4tEP2hEPs0hFWL/view?usp=sharing)
 
 ### Core Functionality
 
